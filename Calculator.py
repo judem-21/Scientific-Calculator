@@ -210,7 +210,7 @@ if __name__ == "__main__":
     window.configure(background='grey')
 
     # setting the title of the GUI
-    window.title("Standard Calculator")
+    window.title("Scientific Calculator")
 
     # setting the size configuration of the GUI window
     window.geometry("360x640")
